@@ -189,4 +189,4 @@ while win == False:
 			board[ypos][xpos] = plrtwo
 			turn = "Player One"
 		else:
-			print("Space Taken!"|)
+			print("Space Taken!")
